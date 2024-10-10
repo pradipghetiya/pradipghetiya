@@ -57,7 +57,7 @@
 
 ## 🐍 Snake Contributions Animation:
 <p align="center">
-  <img src="https://github.com/pradipghetiya/pradipghetiya/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://github.com/pradipghetiya/pradipghetiya/blob/output/github-contribution-grid-snake.svg" alt="generate-snake.yml">
 </p>
 
 ---
