@@ -16,7 +16,7 @@ jobs:
           github_user_name: pradipghetiya
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Commit and Push
+      - name: pradipghetiya
         run: |
           git config --global user.name "pradipghetiya"
           git config --global user.email "pradipghetiya@gmail.com"
