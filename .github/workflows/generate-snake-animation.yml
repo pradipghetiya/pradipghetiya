@@ -18,8 +18,8 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --global user.name "your-username"
-          git config --global user.email "your-email"
+          git config --global user.name "pradipghetiya"
+          git config --global user.email "pradipghetiya@gmail.com"
           git add dist/github-contribution-grid-snake.svg
           git commit -m "Generated Snake Contribution Grid"
           git push
