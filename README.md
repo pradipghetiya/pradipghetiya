@@ -56,7 +56,7 @@
 ---
 
 ## 🐍 Snake Contributions Animation:
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
